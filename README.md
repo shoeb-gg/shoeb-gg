@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning MERN Stack, Django, Mysql and Postgres.
 - 💞️ I’m looking to collaborate on any kind of innovations in the fiels of Web Development and DevOps.
 - 📫 How to reach me: Facebook: https://www.facebook.com/honoluluboi/
--                      Email: 1920038@iub.edu.bd
--                      Linkedin: https://www.linkedin.com/in/shoeb-uddin-7a6b0b198/
+                       Email: 1920038@iub.edu.bd
+                       Linkedin: https://www.linkedin.com/in/shoeb-uddin-7a6b0b198/
                        
 
 <!---
