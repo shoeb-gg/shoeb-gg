@@ -58,7 +58,7 @@
     src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=black"
+    src="https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=blue"
   />
 </p>
 <h1></h1>
