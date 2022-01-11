@@ -66,4 +66,6 @@
 </p>
 <h1></h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoeb-gg&theme=dracula&&hide=css,scss,less&show_icons=true&locale=en" alt="shoeb-gg" /></p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dsoimwfarbmqznmzd4hw3ba&cover_image=true&theme=default&bar_color_cover=false&bar_color=34f4d4)](https://spotify-github-profile.vercel.app/api/view?uid=21dsoimwfarbmqznmzd4hw3ba&redirect=true)
+<p>
+  [![Spotify](https://now-playing-shoeb-gg.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+</p>
