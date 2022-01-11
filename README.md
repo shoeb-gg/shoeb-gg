@@ -67,6 +67,10 @@
 <h1></h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoeb-gg&theme=dracula&&hide=css,scss,less&show_icons=true&locale=en" alt="shoeb-gg" /></p>
 <h1></h1>
+<p align="center">
 
-![Spotify](https://novatorem-nine-livid.vercel.app/api/spotify)
+  ![Spotify](https://novatorem-nine-livid.vercel.app/api/spotify)
+</p>
+
+
 
