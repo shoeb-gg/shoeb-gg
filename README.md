@@ -2,7 +2,7 @@
 <h3 align="center"> Full-Stack Developer (MERN/MEAN Stack) and Tech Enthusiast from Bangladesh</h3>
 <h1></h1>
 
-- 🔭 I’m currently working on private university Senior Project with MEAN Stack
+- 🔭 I’m currently building Webportal for handling University Internship and Senior Projects using MEAN Stack
 
 - 🌱 I’m currently learning **Nginx, GSAP**
 
