@@ -2,13 +2,13 @@
 <h3 align="center"> Full-Stack Developer (MERN/MEAN Stack) and Tech Enthusiast from Bangladesh</h3>
 <h1></h1>
 
-- 🔭 I’m currently working on [React Shopping Cart App](https://github.com/shoeb-gg/Shoppign-Cart)
+- 🔭 I’m currently working on private university Senior Project with MEAN Stack
 
-- 🌱 I’m currently learning **Angular, Node.js**
+- 🌱 I’m currently learning **Nginx, GSAP**
 
 - 👯 I’m looking to collaborate on **Any MERN/MEAN stack projects**
 
-- 📫 Contact Me at **1920038@iub.edu.bd**
+- 📫 Contact Me at **shoeb.ua@gmail.com**
 <h1></h1>
 <h3 align="center">Connect with me</h3>
 <p align="center">
