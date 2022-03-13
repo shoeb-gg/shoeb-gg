@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building Webportal for handling University Internship and Senior Projects using MEAN Stack
 
-- 🌱 I’m currently learning **Nginx, GSAP**
+- 🌱 I’m currently learning **Nginx, GSAP and WebSocket**
 
 - 👯 I’m looking to collaborate on **Any MERN/MEAN stack projects**
 
