@@ -65,7 +65,7 @@
   />
 </p>
 <h1></h1>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoeb-gg&theme=dracula&&hide=css,scss,less&show_icons=true&locale=en" alt="shoeb-gg" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoeb-gg&theme=dracula&&hide=html,css,scss,less&show_icons=true&locale=en" alt="shoeb-gg" /></p>
 <h1></h1>
 <p align="center">
   
