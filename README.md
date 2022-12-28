@@ -47,7 +47,10 @@
   />  
   <img
     src="https://img.shields.io/badge/express.Js%20-white.svg?&style=for-the-badge&logo=express&logoColor=black"
-  /> 
+  />
+  <img
+    src="https://img.shields.io/badge/Tailwind CSS%2348AAAE?&style=for-the-badge&logo=express&logoColor=black"
+  />
   <img
     src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"
   />
