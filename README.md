@@ -31,6 +31,9 @@
     src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"
   />
   <img
+    src="https://img.shields.io/badge/Tailwind CSS-%23e3c4f2.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%2343A5AE"
+  />
+  <img
     src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"
   />
   <img
@@ -49,7 +52,10 @@
     src="https://img.shields.io/badge/express.Js%20-white.svg?&style=for-the-badge&logo=express&logoColor=black"
   />
   <img
-    src="https://img.shields.io/badge/Tailwind CSS%2348AAAE?&style=for-the-badge&logo=express&logoColor=black"
+    src="https://img.shields.io/badge/JWT-%23cd19ff.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=%2328fff0"
+  />
+  <img
+    src="https://img.shields.io/badge/OAuth2.0-%2320232a.svg?&style=for-the-badge"
   />
   <img
     src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"
