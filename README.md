@@ -28,6 +28,9 @@
     src="https://img.shields.io/badge/css-%2300f.svg?&style=for-the-badge&logo=css3&logoColor=white"
   />
   <img
+    src="https://img.shields.io/badge/scss-%23CA689B.svg?&style=for-the-badge&logo=sass&logoColor=white"
+  />
+  <img
     src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"
   />
   <img
@@ -64,13 +67,10 @@
     src="https://img.shields.io/badge/mysql%20-FF6C37?logo=mysql&logoColor=white&style=for-the-badge"
   />
   <img
-    src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B"
-  />
-  <img
-    src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"
-  />
-  <img
     src="https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=blue"
+  />
+   <img
+    src="https://img.shields.io/badge/MAP-%233D9C54.svg?&style=for-the-badge&logo=googlemaps&logoColor=%23ff1c1c"
   />
 </p>
 <h1></h1>
