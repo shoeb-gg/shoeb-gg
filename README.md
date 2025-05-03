@@ -1,86 +1,112 @@
 <h1 align="center">Hi there 👋, I'm Shoeb</h1>
-<h3 align="center"> Full-Stack Developer (MERN/MEAN Stack) and Tech Enthusiast from Bangladesh</h3>
-<h1></h1>
+<h3 align="center">Full-Stack Engineer & Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
-- 🔭 I’m currently building Webportal for handling University Internship and Senior Projects using MEAN Stack
-
-- 🌱 I’m currently learning **Nginx, GSAP, Webpack and WebSocket**
-
-- 👯 I’m looking to collaborate on **Any MERN/MEAN stack projects**
-
-- 📫 Contact Me at **shoeb.ua@gmail.com**
-<h1></h1>
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shoeb-uddin-7a6b0b198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoeb-uddin-7a6b0b198" height="30" width="40" /></a>
-<a href="https://fb.com/honoluluboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="honoluluboi" height="30" width="40" /></a>
-<a href="https://instagram.com/shoeb.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shoeb.gg/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/h1920038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h1920038" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shoebua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shoebua/" height="30" width="40" /></a>
+  🔭 Currently building robust enterprise features at <a href="https://www.linkedin.com/company/allgeier-inovar/posts/?feedView=all">Allgeier Inovar</a> (Remote - Germany)<br>
+  🌱 Learning: <strong>GoLang, RabbitMQ, Kafka, Elasticsearch, Load Balancing & Scaling</strong><br>
+  👯 Open to collaboration on innovative, high-impact technology projects<br>
+  💬 Ask me about Angular, NestJS, Ionic, TailwindCSS<br>
+  🧠 Passionate about problem solving (50+ LeetCode, 80+ HackerRank)
 </p>
-<h1></h1>
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
-  <img
-    src="https://img.shields.io/badge/html%20-%23FF2D20.svg?&style=for-the-badge&logo=html5&logoColor=white"
-  /> 
-  <img
-    src="https://img.shields.io/badge/css-%2300f.svg?&style=for-the-badge&logo=css3&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/scss-%23CA689B.svg?&style=for-the-badge&logo=sass&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Tailwind CSS-%23e3c4f2.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%2343A5AE"
-  />
-  <img
-    src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"
-  />
-  <img
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
-  />
-  <img
-    src="https://img.shields.io/badge/angular%20-%23FF2D20.svg?&style=for-the-badge&logo=angular&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
-  />  
-  <img
-    src="https://img.shields.io/badge/express.Js%20-white.svg?&style=for-the-badge&logo=express&logoColor=black"
-  />
-  <img
-    src="https://img.shields.io/badge/JWT-%23cd19ff.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=%2328fff0"
-  />
-  <img
-    src="https://img.shields.io/badge/OAuth2.0-%2320232a.svg?&style=for-the-badge"
-  />
-  <img
-    src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/mysql%20-FF6C37?logo=mysql&logoColor=white&style=for-the-badge"
-  />
-  <img
-    src="https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=blue"
-  />
-   <img
-    src="https://img.shields.io/badge/MAP-%233D9C54.svg?&style=for-the-badge&logo=googlemaps&logoColor=%23ff1c1c"
-  />
-</p>
-<h1></h1>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoeb-gg&theme=dracula&&hide=html,css,scss,less&show_icons=true&locale=en" alt="shoeb-gg" /></p>
-<h1></h1>
+
+---
+
+<h3 align="center">🔗 Connect with me</h3>
+
 <p align="center">
-  
+  <a href="mailto:shoeb.ua@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30"/></a>
+  <a href="https://www.linkedin.com/in/shoeb-uddin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30"/></a>
+  <a href="https://github.com/shoeb-gg"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="30"/></a>
+  <a href="https://shoeb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=google-chrome&logoColor=white" height="30"/></a>
+</p>
 
-  ![Spotify](https://novatorem-nine-livid.vercel.app/api/spotify)
+---
+
+<h3 align="center">🧰 Languages & Tools</h3>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&logo=csharp&logoColor=white" height="30"/>
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="30"/>
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat&logo=dotnet&logoColor=white" height="30"/>
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="30"/>
+</p>
+
+<p align="center">
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="30"/>
+</p>
+
+---
+
+### 💼 Experience Highlights
+
+- 🚀 Developed and debugged hundreds of features in enterprise software for international clients like **Vodafone** and **Mercedes**.
+- 🛠️ Proficient in upgrading legacy Angular apps (v4 → v13+), implementing **NgRx**, **RxJS optimization**, and **infinite scroll**.
+- 🔧 Delivered scalable **microservices** architecture using **.NET Core + CQRS + Azure Pipelines**.
+- 🌍 Extensively experienced with building and maintaining cross-platform mobile and web apps using **Ionic**, **Angular SSR**, and **NestJS**.
+
+---
+
+### 📦 Featured Projects
+
+- 🧾 [**Inventory Management System**](https://inventory-manager-agf5.onrender.com)  
+  Angular, TailwindCSS, NestJS, Prisma, PostgreSQL  
+  [Client Code](https://github.com/shoeb-gg/inventory-manager-client) | [Server Code](https://github.com/shoeb-gg/inventory_manager_server)
+
+- 🛒 [**Quick Grocery List (Ionic)**](https://github.com/shoeb-gg/basic-grocery-list)  
+  Fast, offline-capable list manager with beautiful UX
+
+- 💼 [**Portfolio Site**](https://github.com/shoeb-gg/Portfolio_New)  
+  SSR-powered Angular website with Lottie & AOS animations
+
+- ⏱ [**Timer WebApp**](https://timerofshoeb.netlify.app)  
+  Stopwatch/Countdown app with Angular services and dynamic input binding
+
+- 🌍 [**IP Tracker**](https://trackerofshoeb.netlify.app)  
+  Map-based app using Leaflet.js and IP geolocation APIs
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoeb-gg&show_icons=true&hide=contribs,issues&show=prs_merged,prs_merged_percentage&theme=radical" alt="Shoeb's GitHub stats" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoeb-gg&layout=compact&langs_count=8&hide=scss,css,html,less,swift&theme=radical" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoeb-gg&theme=radical&mode=weekly&fire=DD2727" height="200"/>
 </p>
 
 
+---
 
+<p align="center">🚀 Let’s build something amazing together.</p>
